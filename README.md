@@ -107,5 +107,4 @@ To enhance risk evaluation in life insurance by:
 - Explore real-time risk prediction capabilities.
 
 ## Authors
-- Vikramadithya Pabba
-- Dheeraj Goli
+- Venkata Anantha Reddy Arikatla
