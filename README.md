@@ -17,10 +17,7 @@ This project focuses on predicting risk in the life insurance sector using machi
 └── README.md
 ```
 
-## Instructions
-1. Clone the repository.
-    - git clone https://github.com/Vicky1240/Risk-Prediction.git
-3. Run the Jupyter Notebook in the `notebooks/` directory to follow the workflow.
+
 
 ## Dependencies
 - Python 3.10
